@@ -1,0 +1,17 @@
+.space {
+  background-color: #e2e2e2;
+  padding: 4rem;
+}
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  max-width: 200px;
+  padding: 2rem;
+  border-radius: 25px;
+  margin: 10px;
+}
